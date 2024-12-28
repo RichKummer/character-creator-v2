@@ -6,3 +6,11 @@
   text-align: center;
 }
 
+.footer a {
+  color: white;
+  transition: 0.15s;
+}
+
+.footer a:hover {
+  color: lightgray;
+}
